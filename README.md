@@ -15,7 +15,7 @@ A link to learn more about cats
 Basic structure using semantic tags like <main>, <section>, and <footer>
 
 🚀 Live Demo
-(Add this after you successfully deploy it using GitHub Pages)
+ https://adeife25.github.io/cat-photo-app/
 
 Click here to view the live site
 
